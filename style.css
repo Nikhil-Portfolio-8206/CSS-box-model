@@ -1,0 +1,43 @@
+/* ************************************General selector******************************* */
+body{
+    margin: 0;
+}
+h1{
+    margin: 0px;
+}
+p{
+    margin: 0;
+}
+
+/* ***********************************Class selector************************************** */
+.top-container{
+    background-color: #413f3f;
+    border: 10px solid black;
+    height: 200px;
+    padding: 20px;
+    width: 200px;
+
+}
+.middle-container{
+    background-color: rgb(101, 179, 23);
+    border: 20px solid black;
+    height: 200px;
+    margin: 0 0 0 260px;
+    width: 200px;
+}
+.bottem-container{
+    background-color: rgb(44, 78, 78);
+    border: 10px solid black;
+    height: 200px;
+    padding: 20px;
+    width: 200px;
+    margin: 0 0 0 500px;
+}
+
+
+/* ***********************************ID selector************************************** */
+
+/* ***********************************Pseudo selector************************************** */
+
+
+
