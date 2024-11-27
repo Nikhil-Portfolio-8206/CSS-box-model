@@ -16,6 +16,33 @@ p{
     height: 200px;
     padding: 20px;
     width: 200px;
+    display: inline-block;
+
+}
+.middle-container{
+    background-color: rgb(101, 179, 23);
+    border: 20px solid black;
+    height: 200px;
+    margin: 0 0 0 0;
+    width: 200px;
+    display: inline-block;
+}
+.bottem-container{
+    background-color: rgb(44, 78, 78);
+    border: 10px solid black;
+    height: 200px;
+    padding: 20px;
+    width: 200px;
+    margin: 0 0 0 0;
+    display: inline-block;
+}
+/* 
+.top-container{
+    background-color: #413f3f;
+    border: 10px solid black;
+    height: 200px;
+    padding: 20px;
+    width: 200px;
 
 }
 .middle-container{
@@ -32,7 +59,7 @@ p{
     padding: 20px;
     width: 200px;
     margin: 0 0 0 500px;
-}
+} */
 
 
 /* ***********************************ID selector************************************** */
